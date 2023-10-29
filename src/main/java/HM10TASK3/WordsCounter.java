@@ -5,6 +5,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.sun.javafx.collections.MappingChange;
 
 import java.io.*;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.regex.Matcher;
@@ -16,7 +17,6 @@ public class WordsCounter {
         FileReader fileReader = new FileReader(url.toLowerCase());
         try (BufferedReader bufferedReader = new BufferedReader(fileReader)) {
             StringBuilder stringBuilder = new StringBuilder();
-
             String tmp = null;
             while ((tmp = bufferedReader.readLine()) != null) {
                 stringBuilder.append(tmp);
@@ -31,6 +31,8 @@ public class WordsCounter {
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-        System.out.println(wordsNumerator);
+        wordsNumerator.entrySet().stream()
+                .sorted(Comparator.comparing((Map.Entry<String, Integer> entry) -> entry.getValue()).reversed())
+                .forEach(entry -> System.out.println(String.format("%s %d", entry.getKey(), entry.getValue())));
     }
 }
