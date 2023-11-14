@@ -4,16 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bffef5a1-13b5-44de-899b-a4d759505d2f" name="Changes" comment="Please add">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK3/Nevazno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK3/WordsCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HM10TASK3/WordsCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK3/hernia.java" beforeDir="false" />
+    <list default="true" id="bffef5a1-13b5-44de-899b-a4d759505d2f" name="Changes" comment="Thank you so much!!!!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK1/PhoneNumbersValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task1/PhoneNumbersValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK1/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task1/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK2/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task2/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK2/UserToJsonConvertor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task2/UserToJsonConvertor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK2/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task2/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK2/user.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task2/user.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK3/WordsCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task3/WordsCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK3/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task3/words.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,30 +37,82 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HM10TASK3.Main" />
+}</component>
+  <component name="RunManager" selected="Application.MyStackMain">
+    <configuration name="MyArrayListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw9task1.MyArrayListMain" />
       <module name="GoItHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HM10TASK3.*" />
+          <option name="PATTERN" value="hw9task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHashMapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw9task5.MyHashMapMain" />
+      <module name="GoItHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw9task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyQueueMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw9task3.MyQueueMain" />
+      <module name="GoItHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw9task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyStackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw9task4.MyStackMain" />
+      <module name="GoItHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw9task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw9task2.MyArrayListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw9task2.MyArrayListMain" />
+      <module name="GoItHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw9task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,7 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MyStackMain" />
+        <item itemvalue="Application.MyHashMapMain" />
+        <item itemvalue="Application.MyQueueMain" />
+        <item itemvalue="Application.hw9task2.MyArrayListMain" />
+        <item itemvalue="Application.MyArrayListMain" />
       </list>
     </recent_temporary>
   </component>
@@ -70,7 +139,8 @@
       <option name="presentableId" value="Default" />
       <updated>1698609350900</updated>
       <workItem from="1698609351960" duration="96000" />
-      <workItem from="1698609734431" duration="1562000" />
+      <workItem from="1698609734431" duration="2723000" />
+      <workItem from="1698954511226" duration="9313000" />
     </task>
     <task id="LOCAL-00001" summary="Please add">
       <option name="closed" value="true" />
@@ -80,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698609905260</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Thank you so much!!!!">
+      <option name="closed" value="true" />
+      <created>1698612270950</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698612270950</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +166,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Please add" />
-    <option name="LAST_COMMIT_MESSAGE" value="Please add" />
+    <MESSAGE value="Thank you so much!!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thank you so much!!!!" />
   </component>
 </project>

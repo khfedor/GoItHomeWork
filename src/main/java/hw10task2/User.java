@@ -1,4 +1,4 @@
-package HM10TASK2;
+package hw10task2;
 
 public class User {
     private String name;

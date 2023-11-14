@@ -1,4 +1,4 @@
-package HM10TASK3;
+package hw10task3;
 
 import java.io.FileNotFoundException;
 

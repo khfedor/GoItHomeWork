@@ -1,4 +1,4 @@
-package HM10TASK1;
+package hw10task1;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

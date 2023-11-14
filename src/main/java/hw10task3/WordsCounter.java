@@ -1,8 +1,4 @@
-package HM10TASK3;
-
-import HM10TASK2.User;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.sun.javafx.collections.MappingChange;
+package hw10task3;
 
 import java.io.*;
 import java.util.Comparator;
