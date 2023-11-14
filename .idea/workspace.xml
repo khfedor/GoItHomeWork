@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bffef5a1-13b5-44de-899b-a4d759505d2f" name="Changes" comment="Thank you so much!!!!">
+    <list default="true" id="bffef5a1-13b5-44de-899b-a4d759505d2f" name="Changes" comment="Done">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK1/PhoneNumbersValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task1/PhoneNumbersValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK1/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task1/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK2/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task2/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK2/UserToJsonConvertor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task2/UserToJsonConvertor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK2/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task2/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK2/user.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task2/user.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK3/WordsCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task3/WordsCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HM10TASK3/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10task3/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hw11task2/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw11task2/Exercise2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +47,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MyStackMain">
-    <configuration name="MyArrayListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw9task1.MyArrayListMain" />
+  <component name="RunManager" selected="Application.Exercise2">
+    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw11task1.Exercise" />
       <module name="GoItHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw9task1.*" />
+          <option name="PATTERN" value="hw11task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw11task2.Exercise2" />
+      <module name="GoItHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw11task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hw9task2.MyArrayListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw9task2.MyArrayListMain" />
-      <module name="GoItHomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw9task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.Exercise" />
         <item itemvalue="Application.MyStackMain" />
         <item itemvalue="Application.MyHashMapMain" />
         <item itemvalue="Application.MyQueueMain" />
-        <item itemvalue="Application.hw9task2.MyArrayListMain" />
-        <item itemvalue="Application.MyArrayListMain" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +133,7 @@
       <updated>1698609350900</updated>
       <workItem from="1698609351960" duration="96000" />
       <workItem from="1698609734431" duration="2723000" />
-      <workItem from="1698954511226" duration="9313000" />
+      <workItem from="1698954511226" duration="13064000" />
     </task>
     <task id="LOCAL-00001" summary="Please add">
       <option name="closed" value="true" />
@@ -158,7 +151,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698612270950</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Done">
+      <option name="closed" value="true" />
+      <created>1699994921739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699994921741</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Done">
+      <option name="closed" value="true" />
+      <created>1699995147451</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699995147452</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +176,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Please add" />
     <MESSAGE value="Thank you so much!!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thank you so much!!!!" />
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
 </project>
