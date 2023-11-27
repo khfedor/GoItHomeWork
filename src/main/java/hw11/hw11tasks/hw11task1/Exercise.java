@@ -1,4 +1,4 @@
-package hw11task1;
+package hw11.hw11tasks.hw11task1;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -23,7 +23,7 @@ public class Exercise {
 
     public static void main(String[] args) {
         Exercise exercise = new Exercise();
-        exercise.oddValues("src/main/java/hw11task1/filenames.txt");
+        exercise.oddValues("src/main/java/hw11.hw11tasks.hw11task1/filenames.txt");
     }
 }
 

@@ -1,4 +1,4 @@
-package hw11task3;
+package hw11.hw11tasks.hw11task3;
 
 import java.util.Arrays;
 import java.util.Collections;

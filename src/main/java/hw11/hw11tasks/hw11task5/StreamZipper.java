@@ -1,4 +1,4 @@
-package hw11task5;
+package hw11.hw11tasks.hw11task5;
 
 import java.util.Iterator;
 import java.util.Spliterators;

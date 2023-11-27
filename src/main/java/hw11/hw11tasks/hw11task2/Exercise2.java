@@ -1,4 +1,4 @@
-package hw11task2;
+package hw11.hw11tasks.hw11task2;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -22,6 +22,6 @@ public class Exercise2 {
 
     public static void main(String[] args) throws Exception {
         Exercise2 exercise2 = new Exercise2();
-        exercise2.sortedNames("src/main/java/hw11task1/filenames.txt");
+        exercise2.sortedNames("src/main/java/hw11.hw11tasks.hw11task1/filenames.txt");
     }
 }

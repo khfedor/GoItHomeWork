@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bffef5a1-13b5-44de-899b-a4d759505d2f" name="Changes" comment="Done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw11task5/StreamZipper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw11task5/StreamZipper.java" afterDir="false" />
-    </list>
+    <list default="true" id="bffef5a1-13b5-44de-899b-a4d759505d2f" name="Changes" comment="Done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,11 +45,11 @@
 }</component>
   <component name="RunManager" selected="Application.StreamZipper">
     <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw11task1.Exercise" />
+      <option name="MAIN_CLASS_NAME" value="hw11.hw11tasks.tasks.Exercise" />
       <module name="GoItHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw11task1.*" />
+          <option name="PATTERN" value="hw11.hw11tasks.tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,11 +58,11 @@
       </method>
     </configuration>
     <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw11task2.Exercise2" />
+      <option name="MAIN_CLASS_NAME" value="hw11.hw11tasks.hw11task2.Exercise2" />
       <module name="GoItHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw11task2.*" />
+          <option name="PATTERN" value="hw11.hw11tasks.hw11task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,11 +71,11 @@
       </method>
     </configuration>
     <configuration name="RandomStreamer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw11task4.RandomStreamer" />
+      <option name="MAIN_CLASS_NAME" value="hw11.hw11tasks.hw11task4.RandomStreamer" />
       <module name="GoItHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw11task4.*" />
+          <option name="PATTERN" value="hw11.hw11tasks.hw11task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,11 +84,11 @@
       </method>
     </configuration>
     <configuration name="SortedArrayWithStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw11task3.SortedArrayWithStream" />
+      <option name="MAIN_CLASS_NAME" value="hw11.hw11tasks.hw11task3.SortedArrayWithStream" />
       <module name="GoItHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw11task3.*" />
+          <option name="PATTERN" value="hw11.hw11tasks.hw11task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +97,11 @@
       </method>
     </configuration>
     <configuration name="StreamZipper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw11task5.StreamZipper" />
+      <option name="MAIN_CLASS_NAME" value="hw11.hw11tasks.hw11task5.StreamZipper" />
       <module name="GoItHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw11task5.*" />
+          <option name="PATTERN" value="hw11.hw11tasks.hw11task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,7 +129,7 @@
       <updated>1698609350900</updated>
       <workItem from="1698609351960" duration="96000" />
       <workItem from="1698609734431" duration="2723000" />
-      <workItem from="1698954511226" duration="16476000" />
+      <workItem from="1698954511226" duration="16827000" />
     </task>
     <task id="LOCAL-00001" summary="Please add">
       <option name="closed" value="true" />
@@ -174,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700000930880</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Done">
+      <option name="closed" value="true" />
+      <created>1701122760478</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701122760478</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

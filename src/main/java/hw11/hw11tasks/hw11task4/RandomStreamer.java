@@ -1,4 +1,4 @@
-package hw11task4;
+package hw11.hw11tasks.hw11task4;
 
 import java.util.stream.Stream;
 
