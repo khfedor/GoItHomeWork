@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bffef5a1-13b5-44de-899b-a4d759505d2f" name="Changes" comment="Done" />
+    <list default="true" id="bffef5a1-13b5-44de-899b-a4d759505d2f" name="Changes" comment="Done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,13 +46,18 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StreamZipper">
-    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw11.hw11tasks.tasks.Exercise" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/hw11/tasks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NotComplitedTasks">
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw11.hw11tasks.hw11task2.Exercise2" />
       <module name="GoItHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw11.hw11tasks.tasks.*" />
+          <option name="PATTERN" value="hw11.hw11tasks.hw11task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw11.hw11tasks.hw11task2.Exercise2" />
+    <configuration name="NotComplitedTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw13tasks.hw13task3.NotComplitedTasks" />
       <module name="GoItHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw11.hw11tasks.hw11task2.*" />
+          <option name="PATTERN" value="hw13tasks.hw13task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NotComplitedTasks" />
         <item itemvalue="Application.StreamZipper" />
         <item itemvalue="Application.RandomStreamer" />
         <item itemvalue="Application.SortedArrayWithStream" />
         <item itemvalue="Application.Exercise2" />
-        <item itemvalue="Application.Exercise" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +137,7 @@
       <updated>1698609350900</updated>
       <workItem from="1698609351960" duration="96000" />
       <workItem from="1698609734431" duration="2723000" />
-      <workItem from="1698954511226" duration="16827000" />
+      <workItem from="1698954511226" duration="19595000" />
     </task>
     <task id="LOCAL-00001" summary="Please add">
       <option name="closed" value="true" />
@@ -179,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701122760478</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Done">
+      <option name="closed" value="true" />
+      <created>1701123113293</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701123113293</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
