@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bffef5a1-13b5-44de-899b-a4d759505d2f" name="Changes" comment="Done">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw11task2/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw11task2/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hw11task5/StreamZipper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw11task5/StreamZipper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercise2">
+  <component name="RunManager" selected="Application.StreamZipper">
     <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw11task1.Exercise" />
       <module name="GoItHomeWork" />
@@ -74,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashMapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw9task5.MyHashMapMain" />
+    <configuration name="RandomStreamer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw11task4.RandomStreamer" />
       <module name="GoItHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw9task5.*" />
+          <option name="PATTERN" value="hw11task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyQueueMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw9task3.MyQueueMain" />
+    <configuration name="SortedArrayWithStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw11task3.SortedArrayWithStream" />
       <module name="GoItHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw9task3.*" />
+          <option name="PATTERN" value="hw11task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw9task4.MyStackMain" />
+    <configuration name="StreamZipper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw11task5.StreamZipper" />
       <module name="GoItHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw9task4.*" />
+          <option name="PATTERN" value="hw11task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamZipper" />
+        <item itemvalue="Application.RandomStreamer" />
+        <item itemvalue="Application.SortedArrayWithStream" />
         <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.Exercise" />
-        <item itemvalue="Application.MyStackMain" />
-        <item itemvalue="Application.MyHashMapMain" />
-        <item itemvalue="Application.MyQueueMain" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +132,7 @@
       <updated>1698609350900</updated>
       <workItem from="1698609351960" duration="96000" />
       <workItem from="1698609734431" duration="2723000" />
-      <workItem from="1698954511226" duration="13064000" />
+      <workItem from="1698954511226" duration="16476000" />
     </task>
     <task id="LOCAL-00001" summary="Please add">
       <option name="closed" value="true" />
@@ -167,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699995147452</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Done">
+      <option name="closed" value="true" />
+      <created>1700000930880</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700000930880</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
