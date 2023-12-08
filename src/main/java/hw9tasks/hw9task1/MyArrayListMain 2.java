@@ -1,3 +1,4 @@
+/*
 package hw9tasks.hw9task1;
 
 public class MyArrayListMain {
@@ -18,3 +19,4 @@ public class MyArrayListMain {
     }
 }
 
+*/

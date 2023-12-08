@@ -8,32 +8,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw10task1/PhoneNumbersValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10tasks/hw10task1/PhoneNumbersValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw10task1/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10tasks/hw10task1/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw10task2/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10tasks/hw10task2/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw10task2/UserToJsonConvertor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10tasks/hw10task2/UserToJsonConvertor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw10task2/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10tasks/hw10task2/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw10task2/user.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10tasks/hw10task2/user.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw10task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10tasks/hw10task3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw10task3/WordsCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10tasks/hw10task3/WordsCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw10task3/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw10tasks/hw10task3/words.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw11/hw11tasks/hw11task1/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw11task/hw11task1/Exercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw11/hw11tasks/hw11task1/filenames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw11task/hw11task1/filenames.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw11/hw11tasks/hw11task2/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw11task/hw11task2/Exercise2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw11/hw11tasks/hw11task3/SortedArrayWithStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw11task/hw11task3/SortedArrayWithStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw11/hw11tasks/hw11task4/RandomStreamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw11task/hw11task4/RandomStreamer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw11/hw11tasks/hw11task5/StreamZipper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw11task/hw11task5/StreamZipper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw13tasks/hw13task3/NotComplitedTasks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw9task1/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw9tasks/hw9task1/MyArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw9task1/MyArrayListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw9tasks/hw9task1/MyArrayListMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw9task2/MyArrayListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw9tasks/hw9task2/MyArrayListMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw9task2/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw9tasks/hw9task2/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw9task3/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw9tasks/hw9task3/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw9task3/MyQueueMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw9tasks/hw9task3/MyQueueMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw9task4/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw9tasks/hw9task4/MyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw9task4/MyStackMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw9tasks/hw9task4/MyStackMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw9task5/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw9tasks/hw9task5/MyHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hw9task5/MyHashMapMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw9tasks/hw9task5/MyHashMapMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hw12tasks/hw12task1/TimerProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw12tasks/hw12task1/TimerProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hw12tasks/hw12task2/FizzBuzzClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw12tasks/hw12task2/FizzBuzzClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hw9tasks/hw9task1/MyArrayListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hw9tasks/hw9task1/MyArrayListMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="2XS4s6j4hYLG6cWv9Bzj0taPJAp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -83,13 +61,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/hw11/tasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MatcherCommentsWithPosts">
-    <configuration name="MatcherCommentsWithPosts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw13tasks.hw13task2.MatcherCommentsWithPosts" />
+  <component name="RunManager" selected="Application.FizzBuzzClass">
+    <configuration name="FizzBuzzClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw12tasks.hw12task1.hw12task2.FizzBuzzClass" />
       <module name="GoItHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw13tasks.hw13task2.*" />
+          <option name="PATTERN" value="hw12tasks.hw12task1.hw12task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dimatest.StrBuilder" />
+    <configuration name="MatcherCommentsWithPosts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw13tasks.hw13task2.MatcherCommentsWithPosts" />
       <module name="GoItHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dimatest.*" />
+          <option name="PATTERN" value="hw13tasks.hw13task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FizzBuzzClass" />
+        <item itemvalue="Application.Tester" />
         <item itemvalue="Application.MatcherCommentsWithPosts" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.StrBuilder" />
-        <item itemvalue="Application.Tester" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +148,9 @@
       <workItem from="1698609351960" duration="96000" />
       <workItem from="1698609734431" duration="2723000" />
       <workItem from="1698954511226" duration="20315000" />
-      <workItem from="1701458583505" duration="20541000" />
+      <workItem from="1701458583505" duration="22058000" />
+      <workItem from="1701893835686" duration="134000" />
+      <workItem from="1702066454102" duration="2462000" />
     </task>
     <task id="LOCAL-00001" summary="Please add">
       <option name="closed" value="true" />
@@ -236,7 +216,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701125672979</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Done">
+      <option name="closed" value="true" />
+      <created>1701889579207</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701889579208</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Done">
+      <option name="closed" value="true" />
+      <created>1701889767887</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701889767887</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
